@@ -1,0 +1,1 @@
+I have modeled the key post for the keyboard here. All of the posts are the same or each key. If you need one made, I have posted it on PCBWay here: https://www.pcbway.com/project/shareproject/Sharp_MZ_700_Keyboard_Key_Post_9ecfef28.html
